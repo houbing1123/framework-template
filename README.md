@@ -1,20 +1,14 @@
 
 # framework-template
 
+## 基于React19 + Vite
 
-# React + Vite
+它拥有什么？
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+动态路由
 
-Currently, two official plugins are available:
+多组件库支持
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+ts支持
 
->>>>>>> e0abd84 (init)
->>>>>>>
->>>>>>
->>>>>
->>>>
->>>
->>
+快速启动
